@@ -1,8 +1,6 @@
 ### Hi there!👋 My name is Nandini Agarwal.
 
-**itsnandini/itsnandini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**I am someone who is dedicated, curious and ambitious✨** 
 
 - 🎓 I’m currently an undergraduate student. 
 - 🌱 I’m currently working with: Java, Python, C
