@@ -1,4 +1,4 @@
-## Hi there!👋 My name is Nandini Agarwal.
+# Hi there!👋 My name is Nandini Agarwal.
 
 **I am someone who is creative, resourceful and ambitious✨** 
 
