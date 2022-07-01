@@ -7,7 +7,3 @@
 - 📫 You can reach me at: nandini14aga@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The adjectives I used to describe myself are actually adjectives from my Hogwarts House, Slytherin.
-
-### Connect with me here:
-
-<a href=”https://www.linkedin.com/in/nandiniagarwal1407/"><img align=”left” src=”https://raw.githubusercontent.com/itsnandini/itsnandini/main/linkedin.png/images" alt=”Nandini | LinkedIn” width=”21px”/></a>
