@@ -10,4 +10,4 @@
 
 ### Connect with me here:
 
-<a href=”https://www.linkedin.com/in/nandiniagarwal1407/"><img align=”left” src=”https://raw.githubusercontent.com/itsnandini/itsnandini/main/images/linkedin.png" alt=”Nandini | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/nandiniagarwal1407/"><img align=”left” src=”https://raw.githubusercontent.com/itsnandini/itsnandini/main/linkedin.png/images" alt=”Nandini | LinkedIn” width=”21px”/></a>
