@@ -2,15 +2,10 @@
 <h3 align="center">I am someone who is creative, resourceful and ambitious✨</h3>
 
 - 🎓 I’m currently **an undergraduate student**
-
 - 🌱 I’m currently working with **Java and Python**
-
 - 👨‍💻 Pronouns: [she/her](she/her)
-
 - 📫 You can reach me at **nandini14aga@gmail.com**
-
 - 📄 Know about my experiences [https://nandini14aga.wixsite.com/portfolio/resume](https://nandini14aga.wixsite.com/portfolio/resume)
-
 - ⚡ Fun fact: **The adjectives I used to describe myself are actually adjectives from my Hogwarts House, Slytherin.**
 
 <h3 align="left">Connect with me:</h3>
