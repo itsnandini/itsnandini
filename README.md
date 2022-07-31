@@ -1,8 +1,6 @@
 <h1 align="center">Hi!👋 My name is Nandini Agarwal.</h1>
 <h3 align="center">I am someone who is creative, resourceful and ambitious✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsnandini&label=Profile%20views&color=0e75b6&style=flat" alt="itsnandini" /> </p>
-
 - 🎓 I’m currently **an undergraduate student**
 
 - 🌱 I’m currently working with **Java and Python**
