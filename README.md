@@ -2,7 +2,7 @@
 <h3 align="center">I am someone who is creative, resourceful and ambitious✨</h3>
 
 - 🎓 I’m currently an undergraduate student
-- 🌱 I’m currently working with **Java and Python**
+- 🌱 I’m currently working with **HTML and Python**
 - 👨‍💻 Pronouns: she/her
 - 📫 You can reach me at nandini14aga@gmail.com
 - 📄 Check out my portfolio [here](https://nandini14aga.wixsite.com/portfolio)
